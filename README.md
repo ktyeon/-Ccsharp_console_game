@@ -5,7 +5,7 @@ This is a simple console game implemented in C#. It features player movement, en
 ## Installation
 
 1. Clone the repository
-   git clone https://github.com/your-username/simple-console-game.git
+   git clone https://github.com/ktyeon/Ccsharp_console_game.git
 
 # Navigate to the project directory:
 cd simple-console-game
